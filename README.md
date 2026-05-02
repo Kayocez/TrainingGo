@@ -1,2 +1,2 @@
 # TrainingGo
-This repository is to learn basic sintax of Golang.
+This repository is to learn dependency and import other packages in Golang.
